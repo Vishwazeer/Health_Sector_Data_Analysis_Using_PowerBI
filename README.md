@@ -90,8 +90,8 @@ The healthcare dataset contains fields such as Date, ID, Gender, Age, Race, Mome
 
 ---
 
-![]()
-![]()
+![](https://github.com/Vishwazeer/Health_Sector_Data_Analysis_Using_PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
+![](https://github.com/Vishwazeer/Health_Sector_Data_Analysis_Using_PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
 <br />
 
